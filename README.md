@@ -13,7 +13,7 @@ practice
 2. micro-ros와 tf-lidar MCU
  - 개발 기간 : 2024.03.04 - 2024.03.08
  - 핵심 역할 : 거리 측정용 lidar 장비에서  uart 통신으로 MCU와 연결하였습니다. 이를 micro-ros의 timer_callback을 통해, 메시지를 송출하는 MCU를 제작하였습니다.
- - 링크 : 
+ - 링크 : https://github.com/DaCa123444/microrostflidar/tree/DaCa123444-patch-1 
 
 3. esp32-cam 얼굴인식 및 특정 데이터 출력  MCU
  - 개발 기간 : 2024.02.26 - 2024.03.01
