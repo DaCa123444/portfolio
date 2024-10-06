@@ -12,7 +12,7 @@
 
 2. sr-04
   - 개발 기간 : 2024.09.01 - 2024.09. 14
-  - 핵심 기능 : pulse 발생 및 인터럽트를 통한 처리
+  - 핵심 기능 : clock pulse 및 interrupt 처리
   - 링크 : https://github.com/DaCa123444/distance/blob/DaCa123444-patch-1/Readme.md
   
 
