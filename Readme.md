@@ -11,14 +11,14 @@
  - 링크 : [[https://github.com/DaCa123444/IldarNMotor/tree/Lidar_Motor_integration](https://github.com/DaCa123444/IldarNMotor/tree/Lidar_Motor_integration/IldarNMotor-main)](https://github.com/DaCa123444/IldarNMotor
 
 2. sr-04
-  - 개발 기간 : 2024.08.15 - 2024.08. 25
-  - 핵심 기능 : clock pulse 및 interrupt 처리
-  - 링크 : [https://github.com/DaCa123444/distance/blob/DaCa123444-patch-1/Readme.md](https://github.com/DaCa123444/distance)
+ - 개발 기간 : 2024.08.15 - 2024.08. 25
+ - 핵심 기능 : clock pulse 및 interrupt 처리
+ - 링크 : [https://github.com/DaCa123444/distance/blob/DaCa123444-patch-1/Readme.md](https://github.com/DaCa123444/distance)
   
 3. 차 구동 구현 및 광학 인코더 개발
-   - 개발 기간 : 2024.09.01 - 2024.09.10
-   - 핵심 기능 : 함수를 정리하여 라이브러리화 및 광학 인코더를 구현
-   - 링크 : [https://github.com/DaCa123444/miniicar](https://github.com/DaCa123444/miniicar)
+- 개발 기간 : 2024.09.01 - 2024.09.10
+- 핵심 기능 : 함수를 정리하여 라이브러리화 및 광학 인코더를 구현
+- 링크 : [https://github.com/DaCa123444/miniicar](https://github.com/DaCa123444/miniicar)
 
 ## 회로
 
